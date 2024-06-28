@@ -1,6 +1,6 @@
 ## Hi,
 
-It's Thanh Thao. I share in this page different work projects that I did during my master degree in Acturial Science as well as my journey of learning to code as well as data analyze.
+It's Thanh Thao. I share in this page different work projects that I did during my Master's degree in Acturial Science as well as my journey of learning to code as well as to analyze data.
 
 I have passion to make data talk via beautiful and self-explaining graphs.
 
