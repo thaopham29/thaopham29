@@ -14,6 +14,8 @@ I'm currently taking DAV exams as well as sharpenning my Data Analysis skills wi
 I'd add projects here a long the way.
 
 
+
+
 <!--
 **thaopham29/thaopham29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
