@@ -1,13 +1,19 @@
 ## Hi,
 
-It's Thanh Thao. I share in this page different work projects that I did during my Master's degree in Acturial Science as well as my journey of learning to code as well as to analyze data.
+It's Thanh Thao. I share in this page different work projects to illustrate my come-back journey to Actuarial Science, refresh my coding skills, and make data talk via beautiful and self-explaining graphs.
 
-I have passion to make data talk via beautiful and self-explaining graphs.
+# My Project Roadmap 🚀
 
-There are two main repositories:
+This repository will contain various research documents and code projects. Below is the structured list of planned projects.
 
--  Actuarial Science
--  Data Analytics
+## 📂 Planned Projects
+- [ ] **Tales of probability and risks**
+ - [ ] **Project 1:** Univariate distribution
+ - [ ] **Project 2:** Compound distribution
+ - [ ] **Project 3:** Multivariate distribution
+ - [ ] **Project 4:** Copulas
+ - [ ] **Project 5:** Copulas in Risk Management 
+
 
 I'm currently taking DAV exams as well as sharpenning my Data Analysis skills with courses on Datacamp. 
 
