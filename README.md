@@ -7,12 +7,12 @@ It's Thanh Thao. I share in this page different work projects to illustrate my c
 This repository will contain various research documents and code projects. Below is the structured list of planned projects.
 
 ## 📂 Planned Projects
-- [ ] **Tales of probability and risks**
- - [ ] **Project 1:** Univariate distribution
- - [ ] **Project 2:** Compound distribution
- - [ ] **Project 3:** Multivariate distribution
- - [ ] **Project 4:** Copulas
- - [ ] **Project 5:** Copulas in Risk Management 
+### [ ] **Tales of probability and risks**
+  - [ ] **Project 1:** Univariate distribution
+  - [ ] **Project 2:** Compound distribution
+  - [ ] **Project 3:** Multivariate distribution
+  - [ ] **Project 4:** Copulas
+  - [ ] **Project 5:** Copulas in Risk Management 
 
 
 I'm currently taking DAV exams as well as sharpenning my Data Analysis skills with courses on Datacamp. 
