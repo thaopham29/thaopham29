@@ -6,8 +6,8 @@ I have passion to make data talk via beautiful and self-explaining graphs.
 
 There are two main repositories:
 
--  Acturial Science
--  Data Analytic
+-  Actuarial Science
+-  Data Analytics
 
 I'm currently taking DAV exams as well as sharpenning my Data Analysis skills with courses on Datacamp. 
 
