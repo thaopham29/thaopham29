@@ -7,7 +7,7 @@ It's Thanh Thao. I share in this page different work projects to illustrate my c
 This repository will contain various research documents and code projects. Below is the structured list of planned projects.
 
 ## 📂 Planned Projects
-###  **Tales of probability and risks**
+###  **[Tales of probability and risks](https://github.com/thaopham29/Tales-of-probability-and-risks/blob/main/README.md)**
   - [ ] **Project 1:** Univariate distribution
   - [ ] **Project 2:** Compound distribution
   - [ ] **Project 3:** Multivariate distribution
