@@ -7,17 +7,20 @@ It's Thanh Thao. I share in this page different work projects to illustrate my c
 This repository will contain various research documents and code projects. Below is the structured list of planned projects.
 
 ## 📂 Planned Projects
+
 ###  **[Tales of probability and risks](https://github.com/thaopham29/Tales-of-probability-and-risks/blob/main/README.md)**
   - [ ] **Project 1:** Univariate distribution
   - [ ] **Project 2:** Compound distribution
   - [ ] **Project 3:** Multivariate distribution
   - [ ] **Project 4:** Copulas
   - [ ] **Project 5:** Copulas in Risk Management
-### **Pricing Options**
-  - [ ] **Project 6:** Basics of Options and Pricing
-  - [ ] **Project 7:** Analytical Methods for Pricing
-  - [ ] **Project 8:** Monte Carlo and advanced methods
-  - [ ] **Project 9:** Comparative Analysis
+
+###  **[Actuarial Modeling: A Data Science Upgrade]
+  - [ ] **Project 6:** Data preparation
+  - [ ] **Project 7:** A quick review of simple linear regression
+  - [ ] **Project 8:** Muiltiple linear regression
+  - [ ] **Project 9:** Generalized linear models
+
 
 
 I'm currently taking DAV exams as well as sharpenning my Data Analysis skills with courses on Datacamp. 
