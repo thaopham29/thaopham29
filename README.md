@@ -9,7 +9,7 @@ This repository will contain various research documents and code projects. Below
 ## 📂 Planned Projects
 
 ###  **[Tales of probability and risks](https://github.com/thaopham29/Tales-of-probability-and-risks/blob/main/README.md)**
-  - [x ] **Project 1:** Univariate distribution
+  - [x]  **Project 1:** Univariate distribution
   - [ ] **Project 2:** Compound distribution
   - [ ] **Project 3:** Multivariate distribution
   - [ ] **Project 4:** Copulas
