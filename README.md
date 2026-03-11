@@ -10,8 +10,7 @@ This repository will contain various research documents and code projects. Below
 
 ###  **[Tales of probability and risks](https://github.com/thaopham29/Tales-of-probability-and-risks/blob/main/README.md)**
   - [x]  **Project 1:** Univariate distribution (completed)
-
-        Discrete and continuous distributions with actuarial applications, numerical examples, and visualization.
+Discrete and continuous distributions with actuarial applications, numerical examples, and visualization.
 
   - [ ]  **Project 2:** Compound Distributions (in progress)
   
