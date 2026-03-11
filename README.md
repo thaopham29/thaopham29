@@ -15,7 +15,7 @@ Discrete and continuous distributions with actuarial applications, numerical exa
 
   - [ ]  **Project 2:** Compound Distributions (in progress)
   
-     Collective risk model, aggregate loss distributions, Panjer recursion, simulation
+ Collective risk model, aggregate loss distributions, Panjer recursion, simulation
 
   - [ ] **Project 3:** Multivariate distribution
   - [ ] **Project 4:** Copulas
