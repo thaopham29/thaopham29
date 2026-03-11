@@ -4,17 +4,19 @@ It's Thanh Thao. I share in this page different work projects to illustrate my c
 
 # My Project Roadmap 🚀
 
-This repository will contain various research documents and code projects. Below is the structured list of planned projects.
+This repository will contain various research documents and code projects. Below is the structured list of (finised or planned) projects.
 
 ## 📂 Planned Projects
 
 ###  **[Tales of probability and risks](https://github.com/thaopham29/Tales-of-probability-and-risks/blob/main/README.md)**
   - [x]  **Project 1:** Univariate distribution (completed)
+
         Discrete and continuous distributions with actuarial applications, numerical examples, and visualization.
 
-- [ ] Project 2 – Compound Distributions (in progress)  
-  Collective risk model, aggregate loss distributions, Panjer recursion, simulation.
   - [ ]  **Project 2:** Compound Distributions (in progress)
+  
+     Collective risk model, aggregate loss distributions, Panjer recursion, simulation
+
   - [ ] **Project 3:** Multivariate distribution
   - [ ] **Project 4:** Copulas
   - [ ] **Project 5:** Copulas in Risk Management
