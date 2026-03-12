@@ -22,7 +22,7 @@ Discrete and continuous distributions with actuarial applications, numerical exa
   - [ ] **Project 5:** Copulas in Risk Management
 
 ###  **[Actuarial Modeling: A Data Science Upgrade](https://github.com/thaopham29/Actuarial-Modeling-A-Data-Science-Upgrade/blob/main/README.md)**
-  - [ ] **Project 6:** Data preparation
+  - [ ] **Project 6:** Data preparation (in progress)
   - [ ] **Project 7:** A quick review of simple linear regression
   - [ ] **Project 8:** Muiltiple linear regression
   - [ ] **Project 9:** Generalized linear models
